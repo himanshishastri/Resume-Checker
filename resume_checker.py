@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_PMtC7cRGHnh5n_Q8nneV9MDzJA10Mpd
 """
 
-!pip install gradio pdf2image pytesseract nltk matplotlib PyMuPDF
-!apt-get install -y poppler-utils
+
 
 #Import Libraries And Setup
 
